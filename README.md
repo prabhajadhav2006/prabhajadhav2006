@@ -33,14 +33,14 @@
 ### 💻 Programming & Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🤖 AI & Computer Vision
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv,python" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 
 <br><br>
 
@@ -64,26 +64,9 @@
 
 ## 📚 Currently Exploring
 
-- 🐍 Python & Programming
 - 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🎯 Object Detection with YOLO
 - 🌐 Web Technologies
 - 🎨 UI/UX & Creative Technology
-
----
-
-## 🚀 Current Project
-
-### 👓 Smart Vision — In Progress
-
-An ongoing project exploring an AI-based navigation system for visually impaired individuals.
-
-Currently working on the software side, including real-time object detection using computer vision technologies. The hardware integration and complete prototype are currently in progress.
-
-**Explored:** YOLO • OpenCV • Ultralytics • Python
-
-> 🚧 Project currently under development
 
 ---
 
@@ -97,7 +80,7 @@ Currently working on the software side, including real-time object detection usi
 
 ---
 
-<div align="center">
+<div align="center"
 
 ✨ Thanks for visiting my profile ✨
 
